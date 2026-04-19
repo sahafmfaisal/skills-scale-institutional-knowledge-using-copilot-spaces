@@ -25,3 +25,5 @@ Core processes include:
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+- [Role Interaction and Ownership Matrix](octoacme-role-interaction-and-ownership-matrix.md)
+- [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
